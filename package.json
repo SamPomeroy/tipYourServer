@@ -1,0 +1,18 @@
+{
+  "name": "tipyourserver",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha tests.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "http": "^0.0.1-security"
+  }
+}
